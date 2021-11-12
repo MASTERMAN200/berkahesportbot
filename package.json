@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BerkahEsport/botgratis.git"
+    "url": "git+https://github.com/BerkahEsport/berkahesportbot.git"
   },
   "bugs": {
-    "url": "https://github.com/BerkahEsport/botgratis/issues"
+    "url": "https://github.com/BerkahEsport/berkahesportbot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
