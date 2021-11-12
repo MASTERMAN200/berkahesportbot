@@ -1,23 +1,6 @@
-{
-  "users": {
-    "6282135723002@s.whatsapp.net": {
-      "exp": 6,
-      "limit": 10,
-      "lastclaim": 0,
-      "registered": false,
-      "name": "Lek Arif SPBU",
-      "age": -1,
-      "regTime": -1,
-      "afk": -1,
-      "afkReason": "",
-      "banned": false,
-      "level": 0,
-      "role": "Beginner",
-      "autolevelup": false
-    },
-    "62859106980383@s.whatsapp.net": {
+{   "62859106980383@s.whatsapp.net": {
       "exp": 12,
-      "limit": 10,
+      "limit": 999999999,
       "lastclaim": 0,
       "registered": false,
       "name": "Live On Ku",
@@ -32,7 +15,7 @@
     },
     "6289649672623@s.whatsapp.net": {
       "exp": 0,
-      "limit": 10,
+      "limit": 999999999,
       "lastclaim": 0,
       "registered": false,
       "name": "BOT GRATIS JANGAN SPAM",
@@ -47,7 +30,7 @@
     },
     "62895371549895@s.whatsapp.net": {
       "exp": 0,
-      "limit": 10,
+      "limit": 999999999,
       "lastclaim": 0,
       "registered": false,
       "name": "moexti",
