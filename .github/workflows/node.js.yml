@@ -27,5 +27,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: sudo apt install ffmpeg -y && sudo apt install imagemagick -y
-    - run: npm i -force
-    - run: node index.js
+    - run: npm i --force
+    - run: npm audit fix --force
+    - run: npm start
